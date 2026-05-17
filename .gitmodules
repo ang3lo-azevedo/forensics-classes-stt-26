@@ -1,0 +1,3 @@
+[submodule "private"]
+	path = private
+	url = https://github.com/afsc19/forensics-classes-stt-26-private/
